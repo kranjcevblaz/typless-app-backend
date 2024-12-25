@@ -10,3 +10,4 @@
 3. Activate virtual environment `source bin/activate/.venv` in the parent directory of `.venv` folder
 4. Run `fastapi dev main.py`
 5. Update environment variables with `TYPLESS_API_TOKEN`
+6. Make sure the FastAPI app starts on port :8000
