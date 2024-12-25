@@ -7,5 +7,5 @@
 ### How to install
 1. Clone the repo into editor of choice
 2. Install requirements `pip install -r requirements.txt`
-3. Activate virtual environment `source bin/activate/.venv`
+3. Activate virtual environment `source bin/activate/.venv` in the parent directory of `.venv` folder
 4. Run `fastapi dev main.py`
